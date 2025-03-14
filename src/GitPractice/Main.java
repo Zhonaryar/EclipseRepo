@@ -11,4 +11,8 @@ public class Main {
 	public void test() {
 		System.out.println("This is just for fun");
 	}
+	
+	public void ZM() {
+		System.out.println("This is inside ZM branch");
+	}
 }
