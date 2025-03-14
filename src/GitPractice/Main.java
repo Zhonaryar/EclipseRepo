@@ -8,4 +8,7 @@ public class Main {
 		System.out.println("This is in main branch");
 	}
 
+	public void test() {
+		System.out.println("This is just for fun");
+	}
 }
